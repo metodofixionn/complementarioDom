@@ -1,0 +1,28 @@
+.titulo {
+    text-align: center;
+    color: rgb(0,53,122);
+    margin-top: 15px;
+}
+
+.saludo {
+    text-align: center;
+    color: rgb(0,184,184);
+    margin-top: 15px;
+}
+
+.sesionDescription {
+    text-align: center;
+    color: rgb(0,53,122);
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: medium;
+    border: 1px solid rgb(0,184,184);
+}
+
+.organizador {
+    text-align: center;
+    color: rgb(0,53,122);
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: medium;
+}
